@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Get-Movies-with-omdbapi/precache-manifest.ddb4ab8e0c1af4dd18aca4bea806e709.js"
+  "/Get-Movies-with-omdbapi/precache-manifest.7a61d43fd8670144e3cdd43c068c0a38.js"
 );
 
 self.addEventListener('message', (event) => {

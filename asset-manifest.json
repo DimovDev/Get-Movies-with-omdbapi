@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Get-Movies-with-omdbapi/static/css/main.361dcff1.chunk.css",
-    "main.js": "/Get-Movies-with-omdbapi/static/js/main.49ed81b1.chunk.js",
-    "main.js.map": "/Get-Movies-with-omdbapi/static/js/main.49ed81b1.chunk.js.map",
+    "main.js": "/Get-Movies-with-omdbapi/static/js/main.2073784e.chunk.js",
+    "main.js.map": "/Get-Movies-with-omdbapi/static/js/main.2073784e.chunk.js.map",
     "runtime-main.js": "/Get-Movies-with-omdbapi/static/js/runtime-main.cc651472.js",
     "runtime-main.js.map": "/Get-Movies-with-omdbapi/static/js/runtime-main.cc651472.js.map",
     "static/js/2.69bb2aac.chunk.js": "/Get-Movies-with-omdbapi/static/js/2.69bb2aac.chunk.js",
     "static/js/2.69bb2aac.chunk.js.map": "/Get-Movies-with-omdbapi/static/js/2.69bb2aac.chunk.js.map",
     "index.html": "/Get-Movies-with-omdbapi/index.html",
-    "precache-manifest.ddb4ab8e0c1af4dd18aca4bea806e709.js": "/Get-Movies-with-omdbapi/precache-manifest.ddb4ab8e0c1af4dd18aca4bea806e709.js",
+    "precache-manifest.7a61d43fd8670144e3cdd43c068c0a38.js": "/Get-Movies-with-omdbapi/precache-manifest.7a61d43fd8670144e3cdd43c068c0a38.js",
     "service-worker.js": "/Get-Movies-with-omdbapi/service-worker.js",
     "static/css/main.361dcff1.chunk.css.map": "/Get-Movies-with-omdbapi/static/css/main.361dcff1.chunk.css.map",
     "static/js/2.69bb2aac.chunk.js.LICENSE.txt": "/Get-Movies-with-omdbapi/static/js/2.69bb2aac.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cc651472.js",
     "static/js/2.69bb2aac.chunk.js",
     "static/css/main.361dcff1.chunk.css",
-    "static/js/main.49ed81b1.chunk.js"
+    "static/js/main.2073784e.chunk.js"
   ]
 }

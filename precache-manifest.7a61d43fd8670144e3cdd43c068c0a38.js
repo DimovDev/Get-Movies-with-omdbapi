@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a252d63b77c77ef51bf7f9829c3afe96",
+    "revision": "f3fd107ed7820820a0a3c7b26df34d37",
     "url": "/Get-Movies-with-omdbapi/index.html"
   },
   {
-    "revision": "249e25fdb5d9f57ebf34",
+    "revision": "3596aeba29595f98e623",
     "url": "/Get-Movies-with-omdbapi/static/css/main.361dcff1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Get-Movies-with-omdbapi/static/js/2.69bb2aac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "249e25fdb5d9f57ebf34",
-    "url": "/Get-Movies-with-omdbapi/static/js/main.49ed81b1.chunk.js"
+    "revision": "3596aeba29595f98e623",
+    "url": "/Get-Movies-with-omdbapi/static/js/main.2073784e.chunk.js"
   },
   {
     "revision": "fab660c6f2e3515b2d30",
